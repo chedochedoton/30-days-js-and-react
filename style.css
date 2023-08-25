@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,500;8..144,600&family=Unica+One&display=swap');
+
+body {
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+.logo {
+    font-family: 'Unica One', cursive;
+}
+
+.menu-links {
+    width: 12rem;
+    border: 1px solid black;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+}
